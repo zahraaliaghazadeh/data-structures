@@ -15,6 +15,10 @@
  ##### Other links:
  - [Sorting animation](http://sorting.at/)
 
+ #### Big O of Sorting Algorithms
+
+<img src="./assets/images/bigOs.png" width="150px"> <br>
+
 
 
 - Regular Expressions / RegEx
