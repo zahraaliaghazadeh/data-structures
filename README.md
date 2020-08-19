@@ -17,7 +17,7 @@
 
  #### Big O of Sorting Algorithms
 
-<img src="./assets/images/bigOs.png" width="150px"> <br>
+<img src="./assets/images/bigOs.png" > <br>
 
 
 
