@@ -18,7 +18,7 @@
  #### Big O of Sorting Algorithms
 
 <img src="./assets/images/bigOs.png" > <br>
-
+shared by Colt Steele
 
 
 - Regular Expressions / RegEx
