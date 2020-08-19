@@ -6,6 +6,15 @@
 
 ## Learning Resources
 
+
+- Udemy Course links shared by Colt Steele
+ - [VISUALGO](https://visualgo.net/en/sorting?slide=1)
+ - [Animation Sorting Speeds](https://www.toptal.com/developers/sorting-algorithms)
+ - [Sorting Slides](https://cs.slides.com/colt_steele/elementary-sorting-algorithms) by Colt Steele
+ 
+
+
+
 - Regular Expressions / RegEx
 
   - [Awesome RegEx](https://github.com/aloisdg/awesome-regex)
